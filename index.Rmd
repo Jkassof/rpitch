@@ -367,6 +367,18 @@ Market Risk Stress Testing Analyst, Morgan Stanley
 
 ---
 
+## Filling the Gaps
+
+* Data Modeling & Database Management Tool
+     * [Navicat for SQL Server](https://www.navicat.com/)
+     * Commercial & Enterprise Editions Available
+     
+* Workflow Automation & Job Scheduling
+     * [Airflow: A Workflow Management Platform](http://nerds.airbnb.com/airflow/)
+     * Open-Source
+
+---
+
 ## Links
 <hr />
 
