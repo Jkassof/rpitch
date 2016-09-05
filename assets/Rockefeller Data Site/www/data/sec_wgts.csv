@@ -1,0 +1,12 @@
+Sector,Active Weight
+Energy,1.5
+Materials,1
+Utilities,0.5
+Industrials,-1
+Consumer Discretionary,-1
+Consumer Staples,-2
+Finance,1
+Real Estate,-2
+Information Technology,2
+Telecommunications,-3
+Health Care,3
