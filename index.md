@@ -159,19 +159,19 @@ abline(v = mean(means), lwd = 2, col = 'red')
 ## Why R?
 <hr />
 ***=left
-* R is specialized for data analysis & communication
+> * R is specialized for data analysis & communication
 * Enormous library of packages that extend base functionality
      * Standing on the shoulders of giants
-* Extremely active online community of developers and users
+> * Extremely active online community of developers and users
 * Abstracts away complicated CS concerns
 
 <div style="text-align: center;"><IMG SRC="assets/img/rdb.png" ALT="image"></div>
 
 
 ***=right
-* “Whatever you (Excel) can do, I can do better…and a lot more”
+> * “Whatever you (Excel) can do, I can do better…and a lot more”
 * Flexible – can work with just about any data structure
-* 2 million users worldwide
+> * 2 million users worldwide
 * One language to do (almost) everything
      * Plumbing
      * Profiling/Validation
@@ -327,9 +327,10 @@ Market Risk Stress Testing Analyst, Morgan Stanley
 - Microsoft didn't just adopt the open-source tool into their stack, they are taking a leadership role in the R open-source community 
 * January 2015 - Microsoft acquires the standard-bearer in Enterprise R, [Revolution Analytics](www.revolutionanalytics.com)
 * "Enhanced distribution of R from Microsoft"
-     * [Microsoft R Open](https://mran.revolutionanalytics.com/open/) and [Microsoft R Server](https://www.microsoft.com/en-us/cloud-platform/r-server)
 * R has become central in Microsoft's data analytics strategy
 * **SQL Server 2016 natively supports R**
+
+
 
 ***=right
 
@@ -337,7 +338,9 @@ Market Risk Stress Testing Analyst, Morgan Stanley
 * R plays well with C, Python, VBA, Others
 * Can connect directly to databases
 * Can write and style Excel spreadsheets
-* Can weave together writing with graphics in word documents or presentations
+* Can weave together writing and graphics into compelling data products
+
+<div style="text-align: center;"><IMG SRC="assets/img/msftr.png" ALT="image"></div>
 
 
 <div class="topright">
@@ -392,5 +395,5 @@ Market Risk Stress Testing Analyst, Morgan Stanley
 * [RStudio Workshops](https://www.rstudio.com/workshops/)
 * [Microsoft R Server](https://www.microsoft.com/en-us/cloud-platform/r-server)
 * [Microsoft R Open](https://mran.revolutionanalytics.com/rro/)
-* [SQL Server 2016 R Services](https://msdn.microsoft.com/library/mt696069(SQL.130).aspx)
+* [SQL Server 2016 R Services](https://msdn.microsoft.com/library/mt696069\(SQL.130\).aspx)
 * [Revolution Analytics Blog](http://blog.revolutionanalytics.com/)

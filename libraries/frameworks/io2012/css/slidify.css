@@ -328,7 +328,7 @@ slide.segue h2{
 }
 slide:not(.segue)  h2{
  font-family: "Roboto" sans-serif;
- color: darkslategray;
+ color: #366A86;
 }
 article p {
   font-family: "Roboto" sans-serif;
