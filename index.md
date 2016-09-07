@@ -382,6 +382,17 @@ Market Risk Stress Testing Analyst, Morgan Stanley
      * [Airflow: A Workflow Management Platform](http://nerds.airbnb.com/airflow/)
      * Open-Source
 
+---#custbg3
+
+<style>
+#custbg2 {
+  background-image:url(assets/img/masterplan2.png); 
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+}
+</style>
+
 ---
 
 ## Links
