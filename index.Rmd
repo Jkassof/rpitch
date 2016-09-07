@@ -204,7 +204,7 @@ abline(v = mean(means), lwd = 2, col = 'red')
 ## Good Press
 <hr />
 
-> …It is becoming their (data analysts) lingua franca partly because data mining has entered a golden age, whether being used to set ad prices, find new drug faster or fine-tune financial models. Companies as diverse as Google, Pfizer, merck, Bank of America, the InterContinental Hotels Group and Shell use it.
+> …It is becoming their (data analysts) lingua franca partly because data mining has entered a golden age, whether being used to set ad prices, find new drug faster or fine-tune financial models. Companies as diverse as Google, Pfizer, Merck, Bank of America, the InterContinental Hotels Group and Shell use it.
 
 [*Data Analysts Captivated by R’s Power*, The New York Time, Jan 2009](http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html?pagewanted=all&_r=0)
  
@@ -236,7 +236,7 @@ Data Developer, Institutional Equity Division, Morgan Stanley
 ***=left
 
 Corporate & Investment Bank, Data Science & Analytics - J.P. Morgan
-> Build an in-depth understanding of available data assets... Perform ad-hoc explorator statistics and data mining tasks on diverse data sets from small scale to big data...Participate in data architecture and engineering to support analytics... Investigate data visualization and summarization... Communicate findings to stakeholders... Code the solutions...
+> Build an in-depth understanding of available data assets... Perform ad-hoc exploratory statistics and data mining tasks on diverse data sets from small scale to big data...Participate in data architecture and engineering to support analytics... Investigate data visualization and summarization... Communicate findings to stakeholders... Code the solutions...
 
 > Key Requirements…Experience in at least one specialized statistical computing environment, preferably R…
 
@@ -292,10 +292,10 @@ Market Risk Stress Testing Analyst, Morgan Stanley
 
 *** =left
 
-* Elegant and powerful R framework from RStudio to develop modern response apps without requiring direct use of HTML, CSS or JS
+* Elegant and powerful R framework from RStudio to develop modern responsive apps without requiring expertise in HTML, CSS or JS
 * Rapid development and iteration time
 * Compelling interactive tools with the power to communicate complex analysis
-* Allows anyone to run an R script/program on command at the click of a button
+* Allows anyone to run a script/program on command at the click of a button
 
 *** =right
 
