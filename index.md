@@ -148,7 +148,7 @@ plot(density(means), col = 'blue')
 abline(v = mean(means), lwd = 2, col = 'red')
 ```
 
-<img src="figure/example_1-1.png" title="plot of chunk example_1" alt="plot of chunk example_1" style="display: block; margin: auto;" />
+<img src="assets/fig/example_1-1.png" title="plot of chunk example_1" alt="plot of chunk example_1" style="display: block; margin: auto;" />
 
 <div class="topright">
 <img src="assets/img/logo.png"></img>
